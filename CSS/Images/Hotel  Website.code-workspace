@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Hotel  Website",
+			"path": "../.."
+		},
+		{
+			"name": "image_resources",
+			"path": "../../../image_resources"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hotel  Website"
+	}
+}
